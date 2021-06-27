@@ -1,0 +1,7 @@
+
+
+Welcome to List of Future Task of my professional devlopment.
+1)Learn Git
+2)Learn Linux
+3)Learn Perl
+4)Learn Python
